@@ -36,4 +36,15 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=radical)](https://git.io/streak-stats)
 
+<br>
+
+
+  ## Visitors count:
+  <img src="https://profile-counter.glitch.me/NalinTiwary/count.svg" />
+
+<br>
+
+<p align="center"><strong>Welcome :)</strong></p>
+
+
 [website]: https://nalintiwary.github.io/

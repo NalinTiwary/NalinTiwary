@@ -6,12 +6,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nalin-tiwary-3041011b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalin tiwary" height="30" width="40" /></a>
+<a href="https://nalintiwary.github.io/" target="blank"><img align="center" src="https://img.icons8.com/doodle/48/000000/domain.png" alt="nalin-tiwary" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nalin-tiwary-3041011b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalin-tiwary" height="30" width="40" /></a>
 <a href="https://instagram.com/nalin_tiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nalin_tiwary" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nalin2409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nalin2409" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nalin_1000101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nalin_1000101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nalintiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nalintiwary" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/nalintiwary2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nalintiwary2409" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nalintiwary2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@nalintiwary2409" height="30" width="40" /></a>
 </p>
 
 <br>

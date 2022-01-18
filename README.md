@@ -24,8 +24,8 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact&theme=radical" alt="nalintiwary" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="nalintiwary" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalintiwary&show_icons=true&locale=en&hide=stars&theme=radical" alt="nalintiwary" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalintiwary&show_icons=true&locale=en&hide=stars&theme=radical&count_private=true&include_all_commits=true" alt="nalintiwary" />
 
 [website]: https://nalintiwary.github.io/

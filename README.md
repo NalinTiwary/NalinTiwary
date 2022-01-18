@@ -1,6 +1,8 @@
 <h1 align="center">Hey 👋, I'm Nalin</h1>
 <h3 align="center">A student studying CompSci at the University of Illinois-Urbana Champaign</h3>
 
+[![Website](https://img.shields.io/website?label=nalintiwary.github.io/&style=for-the-badge&url=https%3A%2F%2Fnalintiwary.github.io/)](https://nalintiwary.github.io/)
+
 
 <br>
 

@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋, I'm <a href="https://nalintiwary.github.io/" target="blank">Nalin</a></h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+, I'm <a href="https://nalintiwary.github.io/" target="blank">Nalin</a></h1>
 <h3 align="center">A student studying CompSci at the University of Illinois-Urbana Champaign</h3>
 
 <br>
@@ -25,6 +26,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true" alt="nalintiwary" />
+
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nalintiwary&show_icons=true&locale=en&hide=stars&theme=radical&count_private=true&include_all_commits=true" alt="nalintiwary" />
 

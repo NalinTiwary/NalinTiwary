@@ -1,19 +1,16 @@
 <h1 align="center">Hey 👋, I'm Nalin</h1>
 <h3 align="center">A student studying CompSci at the University of Illinois-Urbana Champaign</h3>
 
-[![Website](https://img.shields.io/website?label=nalintiwary.github.io/&style=for-the-badge&url=https%3A%2F%2Fnalintiwary.github.io/)](https://nalintiwary.github.io/)
-
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nalin tiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalin tiwary" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nalin-tiwary-3041011b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nalin tiwary" height="30" width="40" /></a>
 <a href="https://instagram.com/nalin_tiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nalin_tiwary" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/nalin2409" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nalin2409" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/nalin_1000101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nalin_1000101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nalintiwary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nalintiwary" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@nalintiwary2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@nalintiwary2409" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/nalintiwary2409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nalintiwary2409" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -25,7 +22,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact&theme=radical" alt="nalintiwary" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact&theme=radical" alt="nalintiwary" />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalintiwary&show_icons=true&locale=en&hide=stars&theme=radical" alt="nalintiwary" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalintiwary&show_icons=true&locale=en&hide=stars&theme=radical" alt="nalintiwary" />

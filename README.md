@@ -21,12 +21,9 @@
 
 <br>
 
-<h3 align="left">Languages Usage:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact" alt="nalintiwary" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact&theme=radical" alt="nalintiwary" /></p>
 
 
-<h3 align="left">My GitHub stats</h3>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalintiwary&show_icons=true&locale=en" alt="nalintiwary" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nalintiwary&show_icons=true&locale=en&hide=stars&theme=radical" alt="nalintiwary" /></p>

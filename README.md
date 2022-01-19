@@ -25,7 +25,7 @@
 <br>
 
 
-![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact&theme=radical&count_private=true)
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs?username=nalintiwary&show_icons=true&locale=en&layout=compact&theme=radical&langs_count=10)
 
 
 
@@ -38,7 +38,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NalinTiwary&theme=radical)](https://git.io/streak-stats)
 
 <br>
-
 
   ## Visitors count:
   <img src="https://profile-counter.glitch.me/NalinTiwary/count.svg" />

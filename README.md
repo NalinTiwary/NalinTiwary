@@ -1,5 +1,5 @@
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-, I'm <a href="https://nalintiwary.github.io/" target="blank">Nalin</a></h1>
+<h1 align="center">Hey
+, I'm Nalin</h1>
 <h3 align="center">A student studying CompSci at the University of Illinois-Urbana Champaign</h3>
 
 <br>
